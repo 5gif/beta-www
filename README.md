@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 5GIF Evaluation Group Page
 
 You can use the [editor on GitHub](https://github.com/5gif/5gif/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
