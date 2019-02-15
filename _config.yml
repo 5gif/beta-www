@@ -1,6 +1,1 @@
 theme: jekyll-theme-architect
----
----
-body {
-  font-family: '{{ site.fonts.primary }}',{{ site.fonts.secondary }},Arial,sans-serif;
-}
