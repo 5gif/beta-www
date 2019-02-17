@@ -1,5 +1,4 @@
-## About us 
-d
+
 5GIF Evaluation Group is an Independent Evaluation Group (IEG) for the IMT-2020 candidate technology for ITU-R. We are one of the few groups registered to carry out evaluation activities for candidate technologies submitted for IMT-2020.
 
 [IMT-2020 Process and Evaluation Home Page](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Pages/submission-eval.aspx)
