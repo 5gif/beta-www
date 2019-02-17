@@ -1,5 +1,5 @@
-## Welcome to 5GIF Evaluation Group Page
-
+## About us 
+d
 5GIF Evaluation Group is an Independent Evaluation Group (IEG) for the IMT-2020 candidate technology for ITU-R. We are one of the few groups registered to carry out evaluation activities for candidate technologies submitted for IMT-2020.
 
 [IMT-2020 Process and Evaluation Home Page](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Pages/submission-eval.aspx)
@@ -22,7 +22,7 @@ This activity is to address the longer term vision for 2020 and beyond and will 
 ## Requirements, evaluation criteria and submission templates related to technical performance for IMT-2020 radio interface(s)
 
 ### Report ITU-R M.2410 – TPR -Technical Performance Requirement of IMT-2020 system  
-This Report describes key requirements related to the minimum technical performance of IMT-2020 candidate radio interface technologies. It also provides the necessary background information about the individual requirements and the justification for the items and values chosen. Provision of such background information is needed for a broader understanding of the requirements. This Report is based on the ongoing development activities of external research and technology organizations.
+This Report describes key requirements related to the minimum technical performance of IMT-2020 candidate radio interface technologies. It also provides the necessary background information about the individual requirements and the justification for the items and values chosen. Provision of such background information is needed for a broader understanding of the requiremdents. This Report is based on the ongoing development activities of external research and technology organizations.
 
 * [M.2410](M.2410-TPR.pdf) : Minimum requirements related to technical performance for IMT-2020 radio interface(s)  
 
