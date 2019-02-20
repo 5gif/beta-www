@@ -9,6 +9,7 @@ If you are interested in joining the Evaluation Activity, please write to imt202
 
 Repository of documents from 3GPP and ITU workshops related to IMT2020 evaluation. It is made available more of convienience to refer and pull in the developmentwork.
 
+--- 
 # Key ITU-R IMT-2020 documents
 
 * [M.2410](M.2410-TPR.pdf) : Minimum requirements related to technical performance for IMT-2020 radio interface(s)  
@@ -20,16 +21,11 @@ This Report provides guidelines for the `procedure, the methodology` and the cri
 
 # Workshops & Events related to IMT-2020 Evaluation 
 
-## Event 3 : ITU-R IMT-2020 Evaluation Workshop (Dec 2019, Geneva)
-Source : to be updated soon
-               
-## Event 2 : 3GPP Workshop on IMT2020  (Oct 2018, Brussels) 
-Source : [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
-Find the presentions here [3GPP Folder](3gpp/)
+* ITU-R IMT-2020 Evaluation Workshop (Oct 2017, Germany) [WP5D Website](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Pages/ws-20171004.aspx)               
+* 3GPP Workshop on IMT2020  (Oct 2018, Brussels) [3GPP Website](http://www.3gpp.org/news-events/3gpp-news/1976-imt_2020)
+* ITU-R IMT-2020 Evaluation Workshop (Dec 2019, Geneva) (Source : to be updated soon)
 
-## Event 1 : ITU-R IMT-2020 Evaluation Workshop (Oct 2017, Germany)
-Source : [WP5D Website](https://www.itu.int/en/ITU-R/study-groups/rsg5/rwp5d/imt-2020/Pages/ws-20171004.aspx)
-Find files here in [ITU-R Folder](itu-r/) 
+---
 
 # Open Source tools
 
