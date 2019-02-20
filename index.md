@@ -29,5 +29,5 @@ This Report provides guidelines for the `procedure, the methodology` and the cri
 
 # Open Source tools
 
-* IMT-2020 Channel model shared by Beijing University of Posts and Telecommunications , Spark NZ Limited to [WP5D](https://www.itu.int/md/R15-WP5D-C-0989/en). You can download the Matlab codes from Prof. Jianhua Zhang's [website](http://www.zjhlab.net/publications/imt-2020_cm_bupt/) or (github repo)[github.com/5gif/buptmodel)
+* IMT-2020 Channel model shared by Beijing University of Posts and Telecommunications , Spark NZ Limited to [WP5D](https://www.itu.int/md/R15-WP5D-C-0989/en). You can download the Matlab codes from Prof. Jianhua Zhang's [website](http://www.zjhlab.net/publications/imt-2020_cm_bupt/) or [github repo](github.com/5gif/buptmodel)
  
