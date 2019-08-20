@@ -12,9 +12,9 @@ Repository of documents from 3GPP and ITU workshops related to IMT2020 evaluatio
 --- 
 # Key ITU-R IMT-2020 documents
 
-* [M.2410](M.2410-TPR.pdf) : Minimum requirements related to technical performance for IMT-2020 radio interface(s)  
+* [M.2410](/docs/M.2410-TPR.pdf) : Minimum requirements related to technical performance for IMT-2020 radio interface(s)  
 
-* [M.2412](M.2412-EVAL.pdf) : Guidelines for evaluation of radio interface technologies for IMT-2020   
+* [M.2412](/docs/M.2412-EVAL.pdf) : Guidelines for evaluation of radio interface technologies for IMT-2020   
 This Report provides guidelines for the `procedure, the methodology` and the criteria (technical, spectrum and service) to be used in `evaluating the candidate IMT-2020 radio interface` technologies (RITs) or Set of RITs (SRITs) for a number of test environments. These test environments are chosen to simulate closely the more stringent radio operating environments. The evaluation procedure is designed in such a way that the overall performance of the candidate RITs/SRITs may be fairly and equally assessed on a technical basis. It ensures that the overall IMT 2020 objectives are met.
 
 * [M.2411](M.2411.SUBMISSION.pdf) : Requirements, evaluation criteria and submission templates for the development of IMT-2020  This Report deals with on the requirements, evaluation criteria and submission templates for the development of Recommendations and Reports on IMT-2020, such as the detailed specifications of IMT 2020.  
